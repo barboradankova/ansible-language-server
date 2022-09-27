@@ -60,9 +60,9 @@
   },
   "devDependencies": {
     "@types/chai": "^4.3.3",
+    "@types/lodash": "^4.14.184",
     "@types/glob": "^7.2.0",
     "@types/ini": "^1.3.31",
-    "@types/lodash": "^4.14.184",
     "@types/mocha": "^9.1.1",
     "@types/node": "^18.7.11",
     "@types/uuid": "^8.3.4",
